@@ -3,7 +3,7 @@ package com.nc.autumn2020.solutions.additional;
 import java.io.*;
 import java.util.Base64;
 
-public class Description {
+public class Descriptor {
     public static void main(String[] args) throws IOException {
         File NemolyaevIV = new File("src/main/java/com/nc/autumn2020/tasks/additional/decript/Немоляев Илья Владиславович");
         FileReader fileReader = new FileReader(NemolyaevIV);
